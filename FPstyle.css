@@ -1,0 +1,49 @@
+body
+{
+	background-color: #C40C0C;
+}
+
+
+.jumbotron
+{
+	padding: 0 !important;
+	background-repeat: 0;
+}
+
+.but
+{
+	align-items: center-bottom;
+}
+
+.mb-3
+{
+	align-items: center;
+	color: white;
+}
+
+
+.navbar
+{
+	background-color: #C40C0C;	
+}
+
+#About
+{
+	background-color:#fff8db;
+	font-size: 20px;
+	padding: 2px;
+}
+
+#Contacts
+{
+	background-color: #fff8db;
+	align-items: center;
+	text-align: center;
+	font-size: 20px;
+	padding: 2px;	
+}
+
+.site-footer
+{
+	background-color: #FAFAFA;
+}
